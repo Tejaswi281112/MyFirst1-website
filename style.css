@@ -259,7 +259,7 @@ section .title::after{
 
 /* services section styling */
 .services, .teams{
-    color:#fff;
+    color:#fff;   /* color of all the texts in the box */
     background: #111;
 }
 .services .title::before,
