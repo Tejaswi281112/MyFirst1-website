@@ -41,7 +41,7 @@ $(document).ready(function(){
         loop: true
     });
 
-    var typed = new Typed(".typing-3", {
+    var typed = new Typed(".typing-2", {
         strings: ["Programmer", "Web Developer", "Software Developer", "Designer", "Reader", "Music Lover"],
         typeSpeed: 100,
         backSpeed: 60,
